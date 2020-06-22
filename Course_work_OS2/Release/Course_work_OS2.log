@@ -1,0 +1,19 @@
+﻿  Course_work_OS2.cpp
+D:\VSprojects\Course_work_OS2\Course_work_OS2\Course_work_OS2.cpp(183,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VSprojects\Course_work_OS2\Course_work_OS2\Course_work_OS2.cpp(269,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VSprojects\Course_work_OS2\Course_work_OS2\LinalGenerator.h(41,1): warning C4244:  +=: преобразование "_Ty" в "int", возможна потеря данных
+D:\VSprojects\Course_work_OS2\Course_work_OS2\LinalGenerator.h(41,1): warning C4244:         with
+D:\VSprojects\Course_work_OS2\Course_work_OS2\LinalGenerator.h(41,1): warning C4244:         [
+D:\VSprojects\Course_work_OS2\Course_work_OS2\LinalGenerator.h(41,1): warning C4244:             _Ty=double
+D:\VSprojects\Course_work_OS2\Course_work_OS2\LinalGenerator.h(41,1): warning C4244:         ]
+D:\VSprojects\Course_work_OS2\Course_work_OS2\Course_work_OS2.cpp(12): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> generateGoodConditionedMatrix<double>(const uint32_t)"
+D:\VSprojects\Course_work_OS2\Course_work_OS2\Course_work_OS2.cpp(12): message :         with
+D:\VSprojects\Course_work_OS2\Course_work_OS2\Course_work_OS2.cpp(12): message :         [
+D:\VSprojects\Course_work_OS2\Course_work_OS2\Course_work_OS2.cpp(12): message :             _Ty=double
+D:\VSprojects\Course_work_OS2\Course_work_OS2\Course_work_OS2.cpp(12): message :         ]
+  Создание кода
+  2 of 267 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Course_work_OS2.vcxproj -> D:\VSprojects\Course_work_OS2\Release\Course_work_OS2.exe
